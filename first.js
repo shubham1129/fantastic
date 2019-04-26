@@ -1,1 +1,3 @@
 consol.log
+
+require('mysql');
